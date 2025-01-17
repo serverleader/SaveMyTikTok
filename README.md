@@ -36,11 +36,12 @@ If you find this project helpful, consider giving it a ⭐ on GitHub!
 
 For any questions or issues, feel free to open an issue or reach out via the following channels:
 
-```commandline
 📧 Email: yuijks8@gmail.com
+
 📢 Telegram: t.me/worldVarspeace
-💼 Upwork: View Profile
-```
+
+💼 Upwork: [View Profile](https://www.upwork.com/freelancers/~01830048df1d989f02?viewMode=1)
+
 
 # Acknowledgements
 
