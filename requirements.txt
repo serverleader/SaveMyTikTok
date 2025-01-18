@@ -1,4 +1,5 @@
 aiohttp
+requests
 pandas
 playwright
 loguru
